@@ -32,3 +32,4 @@ to solve recycle and reuse
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
+![image](https://user-images.githubusercontent.com/23555312/204140313-f1b27957-739a-4eb1-a80e-439dfb80e5b7.png)
