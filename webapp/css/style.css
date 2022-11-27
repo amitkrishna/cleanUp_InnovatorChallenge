@@ -1,0 +1,14 @@
+/* Enter your custom styles here */
+
+
+.myCustomText {
+  font-weight: bold;
+  font-size: 50px !important;
+  align-content: center;
+  padding: 1rem;
+}
+.myCustomText2 {
+  font-weight: bold;
+  font-size: 30px !important;
+  padding: 1rem;
+}
